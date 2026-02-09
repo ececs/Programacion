@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.7z
+/build/
+/dist/
+/target/
+**/nbproject/private/
