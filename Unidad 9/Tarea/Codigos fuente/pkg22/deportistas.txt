@@ -1,0 +1,21 @@
+Nombre Edad Peso Estatura
+Juan Pedro Pérez Gómez 25 70,5 1,80
+Ana Ruiz del Val 23 60,0 1,75
+Carlos Sánchez Martín 30 80,0 1,85
+María López Fernández 22 55,0 1,60
+David Martín García 27 78,2 1,78
+Laura Gómez Pérez 19 61,5 1,68
+Luis Rodríguez Sánchez 32 83,3 1,90
+Elena Torres Ramírez 21 58,4 1,65
+Jorge Hernández López 29 85,1 1,88
+Marta Díaz Fernández 24 59,0 1,70
+Pablo Gutiérrez Ruiz 28 79,7 1,83
+Sofía Jiménez Herrera 26 63,4 1,72
+Andrés Flores López 31 82,5 1,87
+Clara García Sánchez 20 57,8 1,66
+Miguel Martín Gómez 18 74,1 1,75
+Lucía Fernández Pérez 22 54,6 1,63
+Fernando Rodríguez Díaz 33 89,0 1,92
+Carmen Jiménez Torres 23 56,2 1,64
+Raúl Martínez Fernández 27 77,0 1,80
+Isabel González López 25 60,5 1,71

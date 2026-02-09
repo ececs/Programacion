@@ -1,0 +1,4 @@
+£Nombre: Juan, Edad: 25
+Nombre: Ana, Edad: 23
+Nombre: Carlos, Edad: 30
+Nombre: María, Edad: 22
